@@ -1,5 +1,3 @@
-# LeetCodde-GFG
-<!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
 |  |

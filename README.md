@@ -35,6 +35,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |
 ## Brainteaser
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0190-reverse-bits) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

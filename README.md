@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0009-palindrome-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0292-nim-game) |

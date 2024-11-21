@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
@@ -88,4 +90,8 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

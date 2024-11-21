@@ -29,6 +29,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0292-nim-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |

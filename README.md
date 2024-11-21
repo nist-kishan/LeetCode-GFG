@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0172-factorial-trailing-zeroes) |

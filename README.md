@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0190-reverse-bits) |
 ## Linked List
 |  |
@@ -102,4 +105,9 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

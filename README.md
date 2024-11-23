@@ -21,12 +21,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0069-sqrtx) |

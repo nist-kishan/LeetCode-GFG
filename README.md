@@ -32,6 +32,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0125-valid-palindrome](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

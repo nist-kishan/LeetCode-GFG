@@ -23,6 +23,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0069-sqrtx](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0292-nim-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |
 ## Recursion
@@ -81,6 +83,7 @@
 | [0125-valid-palindrome](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |

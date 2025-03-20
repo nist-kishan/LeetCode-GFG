@@ -12,12 +12,14 @@
 | [0088-merge-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0485-max-consecutive-ones) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -52,6 +55,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0292-nim-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |
 ## Recursion
@@ -73,6 +77,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
@@ -122,6 +127,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |

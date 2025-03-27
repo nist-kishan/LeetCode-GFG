@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |

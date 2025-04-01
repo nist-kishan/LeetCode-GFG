@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0485-max-consecutive-ones) |
 ## Binary Search
 |  |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
 ## Simulation
 |  |
 | ------- |

@@ -162,4 +162,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0322-coin-change) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

@@ -69,6 +69,7 @@
 | [0292-nim-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |

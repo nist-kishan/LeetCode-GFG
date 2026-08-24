@@ -20,6 +20,7 @@
 | [0322-coin-change](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0485-max-consecutive-ones) |
+| [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0292-nim-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |
+| [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0292-nim-game) |
+| [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 | [0322-coin-change](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
+| [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
 | ------- |
@@ -171,4 +175,16 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1908-recyclable-and-low-fat-products) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->

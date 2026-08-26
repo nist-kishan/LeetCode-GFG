@@ -50,10 +50,12 @@
 | [0151-reverse-words-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0412-fizz-buzz) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
 |  |
 | ------- |

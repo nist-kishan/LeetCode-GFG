@@ -24,6 +24,7 @@
 | [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -86,6 +87,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |
 | [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1927-sum-game) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -111,6 +113,7 @@
 | [0190-reverse-bits](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -219,6 +222,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find

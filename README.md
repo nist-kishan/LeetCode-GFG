@@ -55,6 +55,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0412-fizz-buzz) |
+| [1927-sum-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -80,6 +81,7 @@
 | [0412-fizz-buzz](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |
 | [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -96,6 +98,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0292-nim-game) |
 | [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration

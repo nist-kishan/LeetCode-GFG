@@ -20,6 +20,7 @@
 | [0322-coin-change](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -81,6 +82,7 @@
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0412-fizz-buzz) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |
 | [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1927-sum-game) |
@@ -164,6 +166,7 @@
 | [0088-merge-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
 |  |

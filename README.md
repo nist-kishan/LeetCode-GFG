@@ -63,6 +63,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0412-fizz-buzz) |
+| [0940-distinct-subsequences-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -195,6 +196,7 @@
 | [0322-coin-change](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |

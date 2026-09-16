@@ -279,4 +279,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

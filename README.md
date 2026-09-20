@@ -344,4 +344,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -61,6 +61,7 @@
 | [0012-integer-to-roman](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
@@ -86,6 +87,7 @@
 | [0020-valid-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0065-valid-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0125-valid-palindrome) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math

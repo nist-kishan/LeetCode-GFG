@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0033-search-in-rotated-sorted-array) |
@@ -39,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0069-sqrtx) |
@@ -170,6 +172,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0190-reverse-bits) |
 ## Linked List

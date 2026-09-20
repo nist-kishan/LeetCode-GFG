@@ -93,6 +93,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0013-roman-to-integer) |
@@ -123,6 +124,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |
@@ -173,6 +175,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0021-merge-two-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |

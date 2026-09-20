@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0020-valid-parentheses) |
@@ -154,6 +155,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0027-remove-element) |
@@ -229,6 +231,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
@@ -306,4 +309,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

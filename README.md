@@ -370,4 +370,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0023-merge-k-sorted-lists) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

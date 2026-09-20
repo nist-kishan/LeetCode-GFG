@@ -144,6 +144,7 @@
 | [0002-add-two-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
@@ -204,6 +205,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0024-swap-nodes-in-pairs) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |

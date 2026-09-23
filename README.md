@@ -30,6 +30,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -54,6 +55,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
@@ -69,6 +71,7 @@
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -110,6 +113,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
 |  |
@@ -303,6 +307,7 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game

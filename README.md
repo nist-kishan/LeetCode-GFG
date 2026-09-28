@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
@@ -56,6 +57,7 @@
 | [0069-sqrtx](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -71,6 +73,7 @@
 | [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -207,6 +210,7 @@
 | [0189-rotate-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -262,6 +266,7 @@
 | [0088-merge-sorted-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |

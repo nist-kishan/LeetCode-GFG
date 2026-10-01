@@ -49,6 +49,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
@@ -335,6 +336,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
 |  |

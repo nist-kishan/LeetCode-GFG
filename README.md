@@ -76,6 +76,7 @@
 | [0202-happy-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
+| [1096-brace-expansion-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -109,6 +110,7 @@
 | [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -242,6 +244,7 @@
 | [0020-valid-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -274,6 +277,7 @@
 | [0268-missing-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -314,6 +318,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0322-coin-change) |
+| [1096-brace-expansion-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
@@ -388,6 +393,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |

@@ -104,6 +104,7 @@
 | [0022-generate-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0125-valid-palindrome) |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1096-brace-expansion-ii) |
@@ -298,6 +300,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
@@ -401,6 +404,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

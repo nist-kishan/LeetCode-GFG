@@ -109,6 +109,7 @@
 | [0115-distinct-subsequences](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0678-valid-parenthesis-string) |
@@ -328,6 +329,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -407,6 +409,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |

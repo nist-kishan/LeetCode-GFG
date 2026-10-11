@@ -37,6 +37,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2965-find-missing-and-repeated-values) |
@@ -374,6 +375,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |

@@ -54,6 +54,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -106,6 +107,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -332,6 +334,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3886-sum-of-sortable-integers) |
 ## Counting

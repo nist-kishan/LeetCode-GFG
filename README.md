@@ -51,6 +51,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2965-find-missing-and-repeated-values) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3525-find-x-value-of-array-ii) |
@@ -108,6 +109,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -165,6 +167,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -194,6 +197,7 @@
 | [1927-sum-game](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2965-find-missing-and-repeated-values) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3525-find-x-value-of-array-ii) |
@@ -369,6 +373,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -496,6 +501,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0023-merge-k-sorted-lists) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nist-kishan/LeetCode-GFG/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |

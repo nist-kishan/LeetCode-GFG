@@ -34,6 +34,7 @@
 | [0835-image-overlap](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -207,6 +208,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0628-maximum-product-of-three-numbers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0795-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/nist-kishan/LeetCode-GFG/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -435,6 +437,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -610,4 +613,12 @@
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nist-kishan/LeetCode-GFG/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/nist-kishan/LeetCode-GFG/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
